@@ -10,3 +10,5 @@ maximizes the team's points.
 As there isn't an official API that you can use to download the game's data, 
 I've built a scraper that fetches the official data straight from the 
 Bundesliga website. 
+
+You can find the notebook explaining the data scraping and the linear optimization [here](https://github.com/julianpetrich/fantasy_bundesliga/blob/master/initial_team.ipynb)
